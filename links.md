@@ -8,3 +8,5 @@ Materi mata kuliah OS
 Untuk bertanya kepada asdos
 3. [Operating Systems - Sistem Operasi](https://os.vlsm.org/)<br>
 Web untuk tugas OS dan soal soal OS
+4. [Github](https://github.com/)<br>
+Untuk keperluan tugas tugas OS
