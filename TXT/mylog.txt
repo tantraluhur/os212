@@ -36,3 +36,10 @@ ZCZC W04 80 L31 VirtualBox: install GNU/Linux, etc. related
 ZCZC W04 150 L09 Assignment in Genera related
 ZCZC W04 200 L02 Zoom meetings related
 ZCZC W04 200 L01 SCELE/Discord related
+ZCZC W05 20 L05 Quiz related
+ZCZC W05 100 L06 References/Books/Documents/GSGS related
+ZCZC W05 80 L31 VirtualBox: install GNU/Linux, etc. related
+ZCZC W05 150 L09 Assignment in Genera related
+ZCZC W05 200 L02 Zoom meetings related
+ZCZC W05 200 L01 SCELE/Discord related
+ZCZC W04 20 L03 Github related
