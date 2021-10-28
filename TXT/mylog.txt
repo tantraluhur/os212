@@ -8,7 +8,6 @@ ZCZC W00 50 L11 Assignment #01
 ZCZC W00 15 L12 Assignment #02
 ZCZC W00 10 L13 Assignment #03
 ZCZC W00 5 L14 Assignment #04
-ZCZC W00 5 L05 Quiz related
 ZCZC W01 45 L01 SCELE/Discord related
 ZCZC W01 200 L02 ZOOM meetings related
 ZCZC W01 15 L03 GitHub related
@@ -42,4 +41,10 @@ ZCZC W05 80 L31 VirtualBox: install GNU/Linux, etc. related
 ZCZC W05 150 L09 Assignment in Genera related
 ZCZC W05 200 L02 Zoom meetings related
 ZCZC W05 200 L01 SCELE/Discord related
-ZCZC W04 20 L03 Github related
+ZCZC W05 20 L03 Github related
+ZCZC W06 20 L05 Quiz related
+ZCZC W06 100 L06 References/Books/Documents/GSGS related
+ZCZC W06 30 L31 VirtualBox: install GNU/Linux, etc. related
+ZCZC W06 50 L09 Assignment in Genera related
+ZCZC W06 20 L01 SCELE/Discord related
+ZCZC W06 10 L03 Github related
