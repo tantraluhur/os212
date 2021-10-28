@@ -10,7 +10,7 @@ Untuk bertanya kepada asdos
 Web untuk tugas OS dan soal soal OS
 4. [Github](https://github.com/)<br>
 Untuk keperluan tugas tugas OS
-5. [GeeksforGeeks](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+5. [GeeksforGeeks (Virtual Memory)](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
 Website untuk mencari pengetahuan yg berhubungan dengan OS
-6. [GeeksforGeeks](https://www.geeksforgeeks.org/concurrency-in-operating-system/#:~:text=Concurrency%20is%20the%20execution%20of,shared%20memory%20or%20message%20passing.)<br>
+6. [GeeksforGeeks (Konkurensi)](https://www.geeksforgeeks.org/concurrency-in-operating system/#:~:text=Concurrency%20is%20the%20execution%20of,shared%20memory%20or%20message%20passing.)<br>
 Website untuk mencari pengetahuan yg berhubungan dengan OS
