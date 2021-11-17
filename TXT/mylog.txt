@@ -55,3 +55,10 @@ ZCZC W07 100 L09 Assignment in Genera related
 ZCZC W07 180 L02 Zoom meetings related
 ZCZC W07 200 L01 SCELE/Discord related
 ZCZC W07 20 L03 Github related
+ZCZC W08 20 L05 Quiz related
+ZCZC W08 50 L06 References/Books/Documents/GSGS related
+ZCZC W08 60 L31 VirtualBox: install GNU/Linux, etc. related
+ZCZC W08 100 L09 Assignment in Genera related
+ZCZC W08 180 L02 Zoom meetings related
+ZCZC W08 200 L01 SCELE/Discord related
+ZCZC W08 20 L03 Github relate
